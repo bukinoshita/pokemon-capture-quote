@@ -1,0 +1,21 @@
+{
+  "name": "pokemon-capture-quote",
+  "version": "0.0.0",
+  "description": "Pokemon capture quote",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/pokemon-capture-quote.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "esnext": true
+  },
+  "license": "MIT"
+}
