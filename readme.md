@@ -43,7 +43,7 @@ How many times the Ball shakes
 
 ## Related
 
-- [catch-pokemon](https://github.com/bukinoshita/catch-pokemon) — Pokemon game - Gotta catch 'em all
+- [catch-pokemon](https://github.com/bukinoshita/catch-pokemon) — Algorithm to catch a pokemon
 - [pokemon-f](https://github.com/bukinoshita/pokemon-f) — Algorithm to calculate `f` on capture pokemon method
 - [pokeball-shake](https://github.com/bukinoshita/pokeball-shake) — Algorithm to determine how many times pokeball shakes
 
