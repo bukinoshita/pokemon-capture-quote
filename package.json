@@ -5,6 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/pokemon-capture-quote.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "keywords": [
+    "pokemon",
+    "pokeball",
+    "capture",
+    "pokemon-capture-quote"
+  ],
   "scripts": {
     "test": "xo && ava"
   },
