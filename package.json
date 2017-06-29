@@ -1,6 +1,6 @@
 {
   "name": "pokemon-capture-quote",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pokemon capture quote",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/pokemon-capture-quote.git",
