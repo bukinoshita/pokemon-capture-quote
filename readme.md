@@ -35,8 +35,8 @@ Pokemon name
 #### shakes
 
 Type: `string`<br/>
-Required<br/>
-Options: `0`, `1`, `2`, `3` and `caught`
+Options: `0`, `1`, `2`, `3` and `caught`<br/>
+Required
 
 How many times the Ball shakes
 
