@@ -15,7 +15,7 @@
     "test": "xo && ava"
   },
   "devDependencies": {
-    "ava": "0.19.1",
+    "ava": "2.4.0",
     "xo": "0.18.2"
   },
   "xo": {
